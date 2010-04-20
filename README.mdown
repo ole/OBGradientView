@@ -12,6 +12,7 @@ The one exception to this is the colors property: in addition to an array of CGC
 an array of UIColor objects. Likewise, the getter returns an array of UIColors. If you need CGColorRefs,
 access gradientLayer.colors instead.
 
+![OBGradientViewDemo screenshot][screenshot]
  
 ## Credits
 
@@ -43,3 +44,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 [CAGradientLayerReference]: http://developer.apple.com/iphone/library/documentation/GraphicsImaging/Reference/CAGradientLayer_class/Reference/Reference.html "CAGradientLayer Class Reference"
+[screenshot]: http://github.com/ole/OBGradientView/blob/master/OBGradientViewDemo-screenshot.png
