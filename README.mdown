@@ -44,4 +44,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 [CAGradientLayerReference]: http://developer.apple.com/iphone/library/documentation/GraphicsImaging/Reference/CAGradientLayer_class/Reference/Reference.html "CAGradientLayer Class Reference"
-[screenshot]: http://github.com/ole/OBGradientView/blob/master/OBGradientViewDemo-screenshot.png
+[screenshot]: http://github.com/ole/OBGradientView/raw/master/OBGradientViewDemo-screenshot.png
