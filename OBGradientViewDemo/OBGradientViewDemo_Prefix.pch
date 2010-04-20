@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'OBGradientViewDemo' target in the 'OBGradientViewDemo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
